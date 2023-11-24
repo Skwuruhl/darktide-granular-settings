@@ -1,6 +1,6 @@
 return {
 	mod_description = {
-		en = "More decimal places for sensitivity and FOV. Increased minimum and maximum FOV by 20°."
+		en = "Chat commands to set sensitivity and FOV to 6 decimal places."
 	},
 	sensitivity_description = {
 		en = "<sensitivity> (up to 6 decimals)"
